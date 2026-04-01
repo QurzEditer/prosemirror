@@ -114,8 +114,8 @@ function commit(...args) {
 }
 
 function install(arg = null) {
-  let base = "https://github.com/prosemirror/"
-  if (arg == "--ssh") { base = "git@github.com:ProseMirror/" }
+  let base = "https://code.haverbeke.berlin/prosemirror/"
+  if (arg == "--ssh") { base = "ssh://git@code.haverbeke.berlin/prosemirror/" }
   else if (arg != null) help(1)
 
   modsAndWebsite.forEach(repo => {

@@ -1,13 +1,13 @@
 # prosemirror
 
-[ [**WEBSITE**](https://prosemirror.net) | [**ISSUES**](https://github.com/prosemirror/prosemirror/issues) | [**FORUM**](https://discuss.prosemirror.net) ]
+[ [**WEBSITE**](https://prosemirror.net) | [**ISSUES**](https://code.haverbeke.berlin/prosemirror/prosemirror/issues) | [**FORUM**](https://discuss.prosemirror.net) ]
 
 ProseMirror is a well-behaved rich semantic content editor based on
 contentEditable, with support for collaborative editing and custom
 document schemas.
 
 The ProseMirror library consists of a number of separate
-[modules](https://github.com/prosemirror/). This repository just
+[modules](https://code.haverbeke.berlin/prosemirror/). This repository just
 serves as a central issue tracker, and holds a script to help easily
 check out all the core modules for development.
 
@@ -16,10 +16,10 @@ number of [examples](https://prosemirror.net/examples/) and the
 [documentation](https://prosemirror.net/docs/).
 
 This code is released under an
-[MIT license](https://github.com/prosemirror/prosemirror/tree/master/LICENSE).
+[MIT license](https://code.haverbeke.berlin/prosemirror/prosemirror/src/branch/main/LICENSE).
 There's a [forum](http://discuss.prosemirror.net) for general
 discussion and support requests, and the
-[Github bug tracker](https://github.com/prosemirror/prosemirror/issues)
+[bug tracker](https://code.haverbeke.berlin/prosemirror/prosemirror/issues)
 is the place to report issues.
 
 **STOP READING HERE IF YOU'RE SIMPLY _USING_ PROSEMIRROR. YOU CAN
@@ -67,9 +67,9 @@ working with the repositories:
 ## Community
 
 Development of ProseMirror happens in the various repositories exposed
-under the [ProseMirror](https://github.com/ProseMirror) organization
-on GitHub. Bugs for core packages are tracked in the [bug
-tracker](https://github.com/prosemirror/prosemirror/issues) for the
+under the [ProseMirror](https://code.haverbeke.berlin/prosemirror/) organization
+on code.haverbeke.berlin. Bugs for core packages are tracked in the [bug
+tracker](https://code.haverbeke.berlin/prosemirror/prosemirror/issues) for the
 meta repository.
 
 We aim to be an inclusive, welcoming community. To make that explicit,
